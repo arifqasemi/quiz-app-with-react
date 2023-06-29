@@ -1,0 +1,34 @@
+[
+    {
+      "question": "What is the capital of France?",
+        "optionA": "Paris",
+        "optionB": "London",
+        "optionC": "Madrid",
+        "optionD": "Rome",
+        "answer":"Paris"
+      
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      
+        "optionA": "Leonardo da Vinci",
+        "optionB": "Pablo Picasso",
+        "optionC": "Vincent van Gogh",
+        "optionD": "Claude Monet",
+        "answer":"Leonardo da Vinci"
+
+      
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      
+         "optionA": "Jupiter", 
+         "optionB": "Saturn",
+         "optionC": "Neptune",
+         "optionD": "Uranus",
+         "answer":"Uranus"
+
+      
+    }
+  ]
+  
